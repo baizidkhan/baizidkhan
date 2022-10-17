@@ -1,4 +1,4 @@
-### Hi there 👋, Baizid Khan
+### Hi there 👋, I'm Baizid Khan
 #### I am very committed towards my projects.
 ![I am very committed towards my projects.](https://hnz.com.br/wp-content/uploads/2021/03/hnz-consultoria-e-treinamentos-blog-como-implementar-devops-as-24-praticas-para-a-adocao-do-devops.jpg)
 
