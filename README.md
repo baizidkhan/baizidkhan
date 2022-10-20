@@ -1,4 +1,4 @@
-### Hi there 👋, I'am Baizid Khan
+### Hi 👋, I'am Baizid Khan
 #### I am very committed towards my projects.
 ![I am very committed towards my projects.](https://www.techiexpert.com/wp-content/uploads/2018/11/devops-process.png)
 
