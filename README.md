@@ -4,7 +4,7 @@
 
 Programmers don’t burn out on hard work, they burn out on change-with-the-wind directives and not ‘shipping
 
-Skills: DevOps / Java / JS / C / HTML / CSS
+Skills : DevOps / Java / JS / C / CSS / HTML
 
 
 
