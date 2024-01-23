@@ -5,6 +5,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baizidkhan&label=Profile%20views&color=0e75b6&style=flat" alt="baizidkhan" /> </p>
+<p align="left"><a href="https://wakatime.com/badge/user/018d1c0b-65b9-420b-bb30-545b14701eaa/project/018d1c12-32b6-4cf1-9e74-1337bbfe906b"><img src="https://wakatime.com/badge/user/018d1c0b-65b9-420b-bb30-545b14701eaa/project/018d1c12-32b6-4cf1-9e74-1337bbfe906b.svg" alt="wakatime"></a></p>
 
 <p align="left"> <a href="https://twitter.com/@baizidikhan" target="blank"><img src="https://img.shields.io/twitter/follow/@baizidikhan?logo=twitter&style=for-the-badge" alt="@baizidikhan" /></a> </p>
 
