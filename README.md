@@ -11,21 +11,21 @@
 <p align="left"> <a href="https://twitter.com/@baizidikhan" target="blank"><img src="https://img.shields.io/twitter/follow/@baizidikhan?logo=twitter&style=for-the-badge" alt="@baizidikhan" /></a> </p>
 
 
-- 🔭 I’m currently working on: [BulkMedi – Medical eCommerce Platform](https://bulkmedi.com)
+- 🔭 I’m currently working on: [BulkMedi](https://bulkmedi.com)
 
-- 🌱 I’m currently learning: **Advanced Shopify Customization, Headless WordPress, Next.js & modern eCommerce frameworks**
+- 🌱 I’m currently learning: **Advanced Shopify, Headless WordPress, Next.js**
 
 - 👯 I’m looking to collaborate on: **Innovative WordPress & WooCommerce projects that need custom solutions**
 
 - 🤝 I’m looking for help with: **Long-term partnerships with agencies, startups, and entrepreneurs**
 
-- 👨‍💻 All of my projects are available at: [https://baizidkhan-portfolio.vercel.app/](https://baizidkhan-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at: [Here](https://baizidkhan-portfolio.vercel.app/)
 
 - 💬 Ask me about: **WordPress, WooCommerce, Shopify, PHP, and eCommerce optimization strategies**
 
 - 📫 How to reach me: ****baizidikhan@gmail.com****
 
-- ⚡ Fun fact: **I can transform a plain theme into a conversion-focused business site faster than most people can set up their hosting ⚡**
+- ⚡ Fun fact: **I can transform a plain theme into a conversion-focused business site faster than most people can set up their hosting**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
