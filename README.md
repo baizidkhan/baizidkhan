@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Baizid khan</h1>
 <h3 align="center">CMS(WordPress-Shopify) | SQA | Business Analyst@GeekSSort</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baizidkhan&label=Profile%20views&color=0e75b6&style=flat" alt="baizidkhan" /> </p>
